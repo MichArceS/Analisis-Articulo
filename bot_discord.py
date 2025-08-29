@@ -18,7 +18,7 @@ async def on_ready():
     print(f'Bot conectado como {client.user}')
 
     # Reemplaza con el ID de tu canal
-    canal_id = 1108779234916323419
+    canal_id = 1135148074919022763
     canal = client.get_channel(canal_id)
 
     print(f'Extrayendo mensajes del canal: {canal.name}')

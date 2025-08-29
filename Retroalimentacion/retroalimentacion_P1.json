@@ -1,0 +1,277 @@
+[
+    {
+        "autor": "iriaec.",
+        "contenido": "<@824276394086236190> estuve viendo tus avances en el EOD. Lo que me estoy fijando es que la línea debe ser en cuanto a estilo visual como la linea con la que se diseñaron los edificios(es decir, no realista). Entonces deberías desdibujar algo la figura de la playa hacia algo más estilizado. Por favor, ven a la reunión del miércoles para explicarte. Por otro lado, tu tutora me indicó que tienes un abecedario hecho, pero no tenía ocnstancia, ya que no has venido a las últimas reuniones.",
+        "fecha": "2024-08-12T15:13:28.383000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@824276394086236190> las ilustraciones, en las partes de color prueba con pinceles más grandes y redondos. Sino quedan como lineas de rotulador más que pinceladas de acuarela.",
+        "fecha": "2024-07-19T22:11:43.389000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@321751055077605386> revisa la ultima version de los marcos, estaba viendo el unit setup y tienes, por un lado cm y por otro la equivalencia en mt y eso nos influye en la escala. Ponlo todo en cm, en el caso de esa escena. Los marcos pequeños estamos viendo que son demasiado pequeños, entonces exporta nomás los grandes. Lo que puedes hacer es duplicarlos(los que son tamaño grande) para tener una version todavia mayor. Pero los chiquitos no funcionan.",
+        "fecha": "2024-07-19T21:58:20.663000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@897818554429214740> por favor revisa la escala de tus edificios, salen enormes en el Unreal(checa en los EOD cómo se ven en Unreal). En .max revisa que estés en metros y dentro units=metros. También revisa el pivote que sale alejado.",
+        "fecha": "2024-07-19T20:44:36.218000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@705998489594626148> cuando acabes tus casas, como ya tenemos casa 1, 2 y 3 llamalas: Casaplaza001, Casaplaza002 y Casaplaza003 siguiendo la nomenclatura que está en la carpeta recursos-nomenclatura de assets. Gracias.",
+        "fecha": "2024-07-18T00:31:10.236000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "tienes resubido el archivo en tu carpeta.",
+        "fecha": "2024-07-14T23:33:14.137000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "lo mismo con el edifico 2:",
+        "fecha": "2024-07-14T23:32:15.291000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "de este edificio tienes ya todo ok mapeado, entonces procede a hacer attach y de ahi empacar de nuevo las uvs:",
+        "fecha": "2024-07-14T23:31:41.934000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@705998489594626148> el palco lo dejé lo más reseteado que pude, pero tendrás que ir cosiendo a mano lo que queda para poder tenerlo desde cero para cortarlo tú. Las columnas no las cortes centradas, mejor por el lateral como te marco en la captura para que no se note. Lo mismo para las piezas del contorno.",
+        "fecha": "2024-07-14T23:30:32.644000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "ventnas, igual:",
+        "fecha": "2024-07-14T23:18:33.112000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@705998489594626148> no sé si estabas ya con el mapeo de las casas, pero la primera debes corregir",
+        "fecha": "2024-07-14T23:17:05.703000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "ok, con lo demás. Cuando hagas las correcciones, prepara ambas casa con el gyzmo en el centro inferior del modelo.",
+        "fecha": "2024-07-14T23:12:55.284000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@897818554429214740> este corte no es necesario",
+        "fecha": "2024-07-14T23:01:17.572000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@897818554429214740> ok con este mapeo. Ahora attach de la farola a la casa, lo pones todo en una sola pieza, empacas de nuevo el UNWrap y pones el punto de pivote com le indiqué a Xavier.",
+        "fecha": "2024-07-14T23:00:08.017000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "",
+        "fecha": "2024-07-14T22:41:10.583000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "estos vertices están incorrectos:",
+        "fecha": "2024-07-14T22:40:39.461000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "",
+        "fecha": "2024-07-14T22:38:38.232000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@321751055077605386> el mueble aparador tiene edges superpuestos que no están haciendo función, no sé si usaste el modificador mirror, pero si de ahí convertiste a edit poly, deberás coser los vertices y eliminar edges innecesarios.",
+        "fecha": "2024-07-14T22:37:09.097000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "Con razón no encontraba lo que estuvimos viendo el miércoles en el mapeo.",
+        "fecha": "2024-07-12T21:52:00.805000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "Me confundí de casa",
+        "fecha": "2024-07-12T21:51:46.453000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "Chuso,disculpa,ya me parecía raro. De modelado la vi ok,por eso pasé a mapeado. No he visto nada raro de la amarilla entonces pasa a mapearla. La otra entonces ya reviso y te digo.",
+        "fecha": "2024-07-12T21:51:27.524000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "En azul te marco los cortes que debes hacer y las cruces en los edges que debes volver a coser.",
+        "fecha": "2024-07-12T16:35:55.909000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "",
+        "fecha": "2024-07-12T16:35:36.377000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "",
+        "fecha": "2024-07-12T16:34:10.297000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "",
+        "fecha": "2024-07-12T16:33:17.506000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "igual aquí:",
+        "fecha": "2024-07-12T16:32:20.875000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "",
+        "fecha": "2024-07-12T16:31:13.794000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@897818554429214740> estos corttes no son correctos, debes cortar la pared donde están las ventanas, por un lado y las ventanas por otro. Los cortes deben hacerse donde te marqué en azul, dejar unido lo que te taché en rojo.",
+        "fecha": "2024-07-12T16:30:26.161000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@321751055077605386> porfa subeme la casa esquinera con el mapeado corregido en .2023, no puedo revisarla.",
+        "fecha": "2024-07-12T16:23:57.631000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "en esta empaqueta bien las uv's, están superpuestas:",
+        "fecha": "2024-07-10T19:01:56.040000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "A la caja de galletas, hazle un corte en la tapa, para que pueda estirarse, la malla tiene algo de tensión y puede notarse en el texturizado posterior:",
+        "fecha": "2024-07-10T18:53:47.479000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@321751055077605386> en la fachada haz el corte por donde te marco y cose la linea donde te puse cruces. Lo demás, ok.",
+        "fecha": "2024-07-10T18:49:09.810000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "Y este corte en este otro marco no es necesario:",
+        "fecha": "2024-06-29T01:37:11.834000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "Este marco, mejor abrirlo por donde te marco y no hacer los cortes que hiciste. Mejor seguir los cortes que tendrá en la realidad, aunque se noten.",
+        "fecha": "2024-06-29T01:35:55.735000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "Este corte no es necesario, del contorno de esa pieza, para abrirla solamente necesitas un corte.",
+        "fecha": "2024-06-29T01:33:56.391000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@321751055077605386> el mapeo de este cuadro debes corregirlo: Lo que marco en rojo debería ser una sola pieza.  La parte superior, otra. Tienes demasiados cortes.",
+        "fecha": "2024-06-29T01:31:24.275000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@844969770976673812> he revisado el modelo. Por el momento,corrige el cabello: Conserva la trenza,pero parte de la base que se te dio(el cabello es un solo bloque,sería esculpido,pero no por mechones).",
+        "fecha": "2024-06-28T14:13:24.881000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "estos igual, no deben quedar sueltos:",
+        "fecha": "2024-06-27T03:42:37.311000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@321751055077605386> tienes que cosser vertices en la caja:",
+        "fecha": "2024-06-27T03:41:56.032000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "por lo demás, bien <@897818554429214740>",
+        "fecha": "2024-06-27T03:38:50.059000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "Del otro edificio, va a dar mucho problema este tejado, ya ahora en render no se ve bien: Lo que te recomiendo es que modeles una teja y la dupliques colocándola sobre este tejado, cosa que lo que tienes sea una base sobre la que ir colocando:",
+        "fecha": "2024-06-27T03:38:21.541000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "lo mismo en este loop, solamnete triangulamos cuando es netamente necesario porque se nos complica el loop, en este caso es algo sencillo, no aplica que triangules:",
+        "fecha": "2024-06-27T03:35:19.816000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "",
+        "fecha": "2024-06-27T03:33:55.071000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@897818554429214740> en este edificio debe hacer los loops enteros, nada de hacer estas triangulaciones: estás usando un vertice para cinco edges, eso no se puede:",
+        "fecha": "2024-06-27T03:33:31.225000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "dale",
+        "fecha": "2024-06-27T03:30:29.059000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "",
+        "fecha": "2024-06-27T03:29:24.633000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "Las otras dos cajas aprobadas, puedes pasar a mapearlas.",
+        "fecha": "2024-06-27T03:28:22.998000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@321751055077605386>  tienes que acabar bien esta caja: Hay vertices sueltos que no corresponden a nada y el interior no está correctamente cosido, por lo que la topología no está correcta.",
+        "fecha": "2024-06-27T03:28:09.571000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@705998489594626148> los edificios, aprobados, sigue mapeando. El palco no está terminado: Las escaleras no pueden ser elementos que atraviesen la malla, debes unir las piezas correctamente mediante subdivision poligonal:",
+        "fecha": "2024-06-27T03:26:14.681000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@844969770976673812> he revisado el personaje, pero en la estructura geneal debes rehacer las caderas. Es una niña de 11 años, por lo que no tiene y tú la estás modelando con curvas. Checa este punto de anatomía. Cuando esté el cabello, avísame y reviso el nuevo .obj con todo. Gracias!",
+        "fecha": "2024-06-18T13:49:55.685000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@348645267865731072> por si te sirve de referencia para el edificio de la biblioteca, te paso las medidas que tiene el palco en Unreal: diámetro 7 m, altura 5,7 mt. Aproximada la torre donde está el reloj debería medir 2 mt más de altura que el palco. <@705998489594626148> checa también esas dimensiones para tu palco, aunque lo veo bien en relación con los edificios(y esos están testeados en Unreal). Abriendo los archivos en .max a mi me salen dimensiones que no corresponden, aunque en Unreal sí están funcionando.",
+        "fecha": "2024-06-14T10:52:09.508000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "",
+        "fecha": "2024-06-08T07:17:12.956000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "",
+        "fecha": "2024-06-08T07:16:58.789000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@348645267865731072> las farolas de la plaza son más bajitas,diría que apenas 4 de alto. Dos Unreal man y un poco. La haría un poco más chica.Mira para que veas la proporción,esta persona respecto a la farola.Buen finde!.",
+        "fecha": "2024-06-08T07:16:49.446000+00:00"
+    },
+    {
+        "autor": "iriaec.",
+        "contenido": "<@705998489594626148> los bordes de las ventanas hazlos todos extruidos de una sola pieza,no montados. Qué la pieza verde sea una extrusión directa de la base azul,sino dará problemas.",
+        "fecha": "2024-06-07T19:41:04.202000+00:00"
+    }
+]

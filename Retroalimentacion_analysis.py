@@ -12,11 +12,12 @@ def filtrar_mensajes_por_rango_fechas(data: list, fecha_inicio: str, fecha_fin: 
     for mensaje in data:
         try:
             fecha_mensaje_str = mensaje.get('fecha', '').split('T')[0]
+            autor_mensaje_str = mensaje.get('autor', '')
             fecha_mensaje_dt = datetime.strptime(fecha_mensaje_str, '%Y-%m-%d')
         except (KeyError, ValueError):
             continue  # Ignora mensajes sin fecha o con formato incorrecto
 
-        if fecha_inicio_dt <= fecha_mensaje_dt <= fecha_fin_dt:
+        if fecha_inicio_dt <= fecha_mensaje_dt <= fecha_fin_dt and autor_mensaje_str == "iriaec.":
             mensajes_filtrados.append(mensaje)
 
     return mensajes_filtrados
@@ -32,18 +33,18 @@ def guardar_json_en_archivo(data: list, nombre_archivo: str):
 
 fecha_de_inicio = '2025-02-01'
 fecha_de_fin = '2025-04-30'
-nombre_archivo_salida = 'eod_P2.json'
+nombre_archivo_salida = 'retroalimentacion_P2.json'
 
-f = open('EOD_mensajes.json')
+f = open('retroalimentacion_mensajes.json')
 data = json.load(f)
 
 # Usa las funciones
 mensajes_filtrados = filtrar_mensajes_por_rango_fechas(data, fecha_de_inicio, fecha_de_fin)
 
-#guardar_json_en_archivo(mensajes_filtrados, nombre_archivo_salida)
+guardar_json_en_archivo(mensajes_filtrados, nombre_archivo_salida)
 
 
-def conteo_EOD(nombre_archivo_entrada: str, nombre_archivo_salida: str):
+def conteo_retroalimentacion(nombre_archivo_entrada: str, nombre_archivo_salida: str):
     try:
         with open(nombre_archivo_entrada, 'r', encoding='utf-8') as file:
             mensajes = json.load(file)
@@ -83,4 +84,4 @@ def conteo_EOD(nombre_archivo_entrada: str, nombre_archivo_salida: str):
         print(f"Error al guardar el archivo de salida: {e}")
         return False
 
-conteo_EOD("eod_P2.json", "conteo_EOD_P2.json")
+conteo_retroalimentacion("retroalimentacion_P2.json", "conteo_retroalimentacion_P2.json")
