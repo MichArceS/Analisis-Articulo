@@ -1,0 +1,462 @@
+[
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD-estilización de Faro",
+        "fecha": "2024-08-30T04:46:34.864000+00:00"
+    },
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD-Prueba de color logo",
+        "fecha": "2024-08-29T16:50:08.142000+00:00"
+    },
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD-prueba de fuente creada",
+        "fecha": "2024-08-25T05:47:50.899000+00:00"
+    },
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD-Maquetación para creación de fuente funcional texturizada",
+        "fecha": "2024-08-21T18:18:22.575000+00:00"
+    },
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD-agrego de textura a tipografía",
+        "fecha": "2024-08-20T03:20:26.738000+00:00"
+    },
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD-prubea nueva de pinceles, abecedario muestra",
+        "fecha": "2024-08-14T18:22:40.083000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - modelado techo edificio 3",
+        "fecha": "2024-08-09T01:27:49.379000+00:00"
+    },
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD-DISEÑO DE PANEL PRINCIPAL",
+        "fecha": "2024-07-31T19:05:15.565000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - Parte superior de edificio 1 y 2",
+        "fecha": "2024-07-24T22:52:32.901000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - Empaque de UVs edificio 1 y corrección puerta del edificio 2",
+        "fecha": "2024-07-19T23:41:28.220000+00:00"
+    },
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD prueba de color y pinceles",
+        "fecha": "2024-07-19T18:23:21.403000+00:00"
+    },
+    {
+        "autor": "wilmermacias.",
+        "contenido": "EOD - Revision de escala de edificios,el proyecto esta subido para revision.",
+        "fecha": "2024-07-18T14:50:50.988000+00:00"
+    },
+    {
+        "autor": "xavierloja",
+        "contenido": "EOD - Mapeado aparador",
+        "fecha": "2024-07-18T02:59:56.632000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - Corrección mapeo ventana (posiblemente aun requiera correcciones) y edificio 1. Attach y empacamiento de UV's edificio 3.",
+        "fecha": "2024-07-17T21:55:59.087000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - corrección del pivot (modelos terminados)",
+        "fecha": "2024-07-17T20:29:43.037000+00:00"
+    },
+    {
+        "autor": "blaziisan",
+        "contenido": "EOD- Modelo Niña",
+        "fecha": "2024-07-17T19:17:02.622000+00:00"
+    },
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD-avance ilustración de panel principal",
+        "fecha": "2024-07-17T19:00:47.877000+00:00"
+    },
+    {
+        "autor": "anissomo.",
+        "contenido": "EOD - Modelo Edificio 1 Final + UVs",
+        "fecha": "2024-07-17T16:10:19.505000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - mapeo de ambas casas terminadas",
+        "fecha": "2024-07-17T03:57:26.849000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - Adelanto de mapeado de edificio amarillo (pendiente ultimo piso del edificio con sus ventanas y techo)",
+        "fecha": "2024-07-12T23:36:53.159000+00:00"
+    },
+    {
+        "autor": "xavierloja",
+        "contenido": "EOD - Modelado mueble aparador terminado",
+        "fecha": "2024-07-12T22:53:37.395000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - Mapeo de casa 3 y ventanas restantes",
+        "fecha": "2024-07-12T20:26:19.380000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - Mapeo casa 1 y 2",
+        "fecha": "2024-07-10T21:05:28.823000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - Mapeo farola pequeña y edificio 1",
+        "fecha": "2024-07-10T20:38:55.517000+00:00"
+    },
+    {
+        "autor": "anissomo.",
+        "contenido": "EOD-Avance Edificio 1",
+        "fecha": "2024-07-10T17:34:46.541000+00:00"
+    },
+    {
+        "autor": "anissomo.",
+        "contenido": "EOD- Modelo Edificio 2 + UVs",
+        "fecha": "2024-07-10T17:34:21.465000+00:00"
+    },
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD-diseño de tipografía para menú de pantallas",
+        "fecha": "2024-07-09T01:04:12.504000+00:00"
+    },
+    {
+        "autor": "wilmermacias.",
+        "contenido": "EOD- Blocking Puerto",
+        "fecha": "2024-07-05T21:27:11.877000+00:00"
+    },
+    {
+        "autor": "wilmermacias.",
+        "contenido": "EOD- Pruebas Material Plastilina,Normales Arregladas y Blocking cuarto.",
+        "fecha": "2024-07-01T21:10:14.368000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - Corrección de unión de vértices del edificio 1 y 2",
+        "fecha": "2024-06-29T09:01:45.114000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - Corrección escaleras palco",
+        "fecha": "2024-06-29T01:55:25.800000+00:00"
+    },
+    {
+        "autor": "xavierloja",
+        "contenido": "EOD- Correción de topología caja de madera.",
+        "fecha": "2024-06-29T01:07:03.670000+00:00"
+    },
+    {
+        "autor": "wilmermacias.",
+        "contenido": "EOD- Pruebas de iluminacion y Blocking Cuarto",
+        "fecha": "2024-06-28T21:31:12.699000+00:00"
+    },
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD-Vectorizado de tipografía",
+        "fecha": "2024-06-28T06:23:45.620000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - Mapeado decorado casa 1 y puerta casa 3",
+        "fecha": "2024-06-28T00:49:54.740000+00:00"
+    },
+    {
+        "autor": "anissomo.",
+        "contenido": "EOD - Avance Edificio 2, ajuste de varadas",
+        "fecha": "2024-06-26T19:30:48.224000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - Cosido de vértices",
+        "fecha": "2024-06-26T04:03:59.484000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - Mapeado ventanas casa 2 y 3",
+        "fecha": "2024-06-26T01:40:07.295000+00:00"
+    },
+    {
+        "autor": "xavierloja",
+        "contenido": "EOD - Modelado Caja metálica",
+        "fecha": "2024-06-26T01:35:15.863000+00:00"
+    },
+    {
+        "autor": "xavierloja",
+        "contenido": "EOD - Avance caja y caja de fruta",
+        "fecha": "2024-06-25T02:46:52.002000+00:00"
+    },
+    {
+        "autor": "anissomo.",
+        "contenido": "EOD - Avance Modelo Edificio 2",
+        "fecha": "2024-06-25T01:23:45.154000+00:00"
+    },
+    {
+        "autor": "xavierloja",
+        "contenido": "EOD - Mapeo casa esquinera",
+        "fecha": "2024-06-22T01:28:23.159000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - Mapeado ventana y puerta edificio 1",
+        "fecha": "2024-06-22T00:45:36.149000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - avance del cosido de vértices del edificio 2",
+        "fecha": "2024-06-22T00:43:12.444000+00:00"
+    },
+    {
+        "autor": "xavierloja",
+        "contenido": "EOD - Mapeo 4 cuadro",
+        "fecha": "2024-06-21T04:47:00.711000+00:00"
+    },
+    {
+        "autor": "wilmermacias.",
+        "contenido": "EOD - Test de Luces y ambiente(zona iluminada/iluminada por ambiente/ambiente y luz de apoyo/solo luz de apoyo/sin luces/)",
+        "fecha": "2024-06-20T14:21:05.456000+00:00"
+    },
+    {
+        "autor": "xavierloja",
+        "contenido": "EOD - Mapeo cuadros 2 y 3",
+        "fecha": "2024-06-20T02:36:07.749000+00:00"
+    },
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD-Bocetos para panel principal",
+        "fecha": "2024-06-20T02:20:17.685000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - modelado del edificio 1 terminado y comienzo de cosido de vertices del edificio 2",
+        "fecha": "2024-06-20T00:09:30.697000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD: Asignar números a las caras del edificio 1",
+        "fecha": "2024-06-19T05:23:24.026000+00:00"
+    },
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD-Propuesta tipográfica de naming",
+        "fecha": "2024-06-19T01:49:48.258000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - extrusion parte superior del palco.",
+        "fecha": "2024-06-19T00:27:46.193000+00:00"
+    },
+    {
+        "autor": "anissomo.",
+        "contenido": "EOD - Mapa de UVs Biblioteca",
+        "fecha": "2024-06-19T00:24:40.822000+00:00"
+    },
+    {
+        "autor": "anissomo.",
+        "contenido": "EOD - Modelo biblioteca",
+        "fecha": "2024-06-19T00:24:01.680000+00:00"
+    },
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD-Propuestas tipográficas de naming",
+        "fecha": "2024-06-18T04:42:39.125000+00:00"
+    },
+    {
+        "autor": "xavierloja",
+        "contenido": "EOD - Avance de mapeo cuadro 1",
+        "fecha": "2024-06-18T03:32:37.638000+00:00"
+    },
+    {
+        "autor": "blaziisan",
+        "contenido": "EOD - Avance de Personaje, el día de hoy subo el cabello y la mochila, ademas de pulir un poco más el mesh",
+        "fecha": "2024-06-17T15:02:53.261000+00:00"
+    },
+    {
+        "autor": "xavierloja",
+        "contenido": "EOD - Casa esquinera terminado modelado y cocido techo y casa",
+        "fecha": "2024-06-16T03:00:03.736000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - Avance edificio 2",
+        "fecha": "2024-06-15T04:44:19.797000+00:00"
+    },
+    {
+        "autor": "wilmermacias.",
+        "contenido": "EOD - test textura de pelo y luces",
+        "fecha": "2024-06-14T21:14:23.119000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - reajuste de tamaño de la puerta de la casa central a través de vertices",
+        "fecha": "2024-06-14T19:53:55.829000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - Reubicación de pilares y lámparas del Palco",
+        "fecha": "2024-06-14T02:59:09.052000+00:00"
+    },
+    {
+        "autor": "wilmermacias.",
+        "contenido": "EOD - prueba de texturas pelo e importe a unreal.",
+        "fecha": "2024-06-13T21:37:39.544000+00:00"
+    },
+    {
+        "autor": "wilmermacias.",
+        "contenido": "EOD - blocking zona 5-6 y comparativa de edificios.",
+        "fecha": "2024-06-12T21:33:09.102000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - Adelanto edificio 2",
+        "fecha": "2024-06-12T16:41:53.658000+00:00"
+    },
+    {
+        "autor": "xavierloja",
+        "contenido": "EOD - Avance casa esquinera",
+        "fecha": "2024-06-12T06:07:28.197000+00:00"
+    },
+    {
+        "autor": "blaziisan",
+        "contenido": "EOD - Avances Protagonista",
+        "fecha": "2024-06-12T04:50:44.910000+00:00"
+    },
+    {
+        "autor": "anissomo.",
+        "contenido": "EOD - Avances Modelo Biblioteca",
+        "fecha": "2024-06-12T00:44:21.119000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - Avance columnas palco de la mùsica",
+        "fecha": "2024-06-12T00:13:30.992000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - Avance columnas palco de la música",
+        "fecha": "2024-06-11T03:34:54.202000+00:00"
+    },
+    {
+        "autor": "xavierloja",
+        "contenido": "EOD - Avance casa esquinera",
+        "fecha": "2024-06-11T01:06:18.769000+00:00"
+    },
+    {
+        "autor": "anissomo.",
+        "contenido": "EOD - Farola Mapa de UVs",
+        "fecha": "2024-06-10T21:10:06.151000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - Edificio 2 adornos a los lados agregados",
+        "fecha": "2024-06-10T17:32:38.674000+00:00"
+    },
+    {
+        "autor": "anissomo.",
+        "contenido": "EOD - Corrección escala de la farola",
+        "fecha": "2024-06-10T14:31:53.053000+00:00"
+    },
+    {
+        "autor": "xavierloja",
+        "contenido": "EOD - Avance de casa esquinera",
+        "fecha": "2024-06-08T03:35:45.905000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - puerta agregada",
+        "fecha": "2024-06-08T02:15:51.092000+00:00"
+    },
+    {
+        "autor": "anissomo.",
+        "contenido": "EOD- Modelado Farola, ver Lowpoly y Ver. Con smooth",
+        "fecha": "2024-06-08T02:13:22.556000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD  - Bordes inferiores ventanas, extruidos",
+        "fecha": "2024-06-07T22:13:07.431000+00:00"
+    },
+    {
+        "autor": "wilmermacias.",
+        "contenido": "EOD - blocking zona 2-3",
+        "fecha": "2024-06-07T21:30:32.602000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - bordes inferiores ventanas",
+        "fecha": "2024-06-07T19:32:38.143000+00:00"
+    },
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD-prueba de tipografía en mensajes ocultos",
+        "fecha": "2024-06-07T17:20:11.243000+00:00"
+    },
+    {
+        "autor": "edu_str.",
+        "contenido": "EOD-prueba de tipografía en diálogos",
+        "fecha": "2024-06-07T17:19:40.824000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - Corrección de ventanas - Edificio 2",
+        "fecha": "2024-06-07T05:48:54.982000+00:00"
+    },
+    {
+        "autor": "xavierloja",
+        "contenido": "EOD - Adelanto de unión de vertices casa esquinera final",
+        "fecha": "2024-06-07T05:17:12.816000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - Avance Palco de la música",
+        "fecha": "2024-06-07T00:46:01.871000+00:00"
+    },
+    {
+        "autor": "wilmermacias.",
+        "contenido": "EOD - blocking zona 1 edificios.",
+        "fecha": "2024-06-06T21:26:08.286000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - unión de vertices edificio 1",
+        "fecha": "2024-06-05T23:43:29.351000+00:00"
+    },
+    {
+        "autor": "wilmermacias.",
+        "contenido": "EOD- Inicio Blocking zona 1 (playa)",
+        "fecha": "2024-06-05T21:27:17.195000+00:00"
+    },
+    {
+        "autor": "xavierloja",
+        "contenido": "EOD - Adelanto de unión de vertices casa esquinera",
+        "fecha": "2024-06-05T05:04:30.224000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - Unión de vertices del edificio",
+        "fecha": "2024-06-05T04:40:18.199000+00:00"
+    },
+    {
+        "autor": "_andymalo",
+        "contenido": "EOD - Vallas del palco de la música",
+        "fecha": "2024-06-03T22:21:16.455000+00:00"
+    },
+    {
+        "autor": "angiesan17",
+        "contenido": "EOD - corrección y unión de vertices en ventanas y puertas del edificio",
+        "fecha": "2024-06-03T21:45:08.916000+00:00"
+    }
+]
